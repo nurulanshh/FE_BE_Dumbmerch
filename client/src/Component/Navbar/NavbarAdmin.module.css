@@ -1,0 +1,24 @@
+img {
+    max-height: 70px;
+}
+
+.NavLink {
+    color: rgb(0, 0, 0);
+    font-weight: bold;   
+}
+
+.NavLink:hover {
+    color: red;
+    font-weight: bold;
+}
+
+.NavLink:active {
+    color: red;
+    font-weight: bold;
+}
+
+.button {
+   width: 80px !important;
+   text-decoration: none !important;
+   color: rgb(146, 146, 146) !important;
+}

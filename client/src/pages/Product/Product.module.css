@@ -1,0 +1,35 @@
+.page {
+    background-color: black !important;
+}
+
+
+.Product {
+    color: #da4444 !important;
+    font-weight: bold !important;
+    margin-left: 120px !important;   
+    margin-top: 30px !important;
+    font-size: large !important;
+}
+
+.productCard {
+    margin-left: 100px !important;
+    margin-right: 100px !important;
+    gap: 4 !important;
+}
+
+.imgCard {
+    min-height: 200px !important;
+    width: 100% !important;
+}
+
+
+.cardTitle {
+    color: #da4444 !important;
+    font-weight: bold !important;
+    text-decoration:none !important ;
+}
+
+.cardText {
+    color: #ffffff !important;
+    margin-bottom: 0 !important;
+}

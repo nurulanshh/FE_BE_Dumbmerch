@@ -1,0 +1,100 @@
+.Container {
+    margin: 0 !important;
+    min-height: 100vh !important;
+    background-color: black !important;
+    width: 1000vh !important;
+}
+
+.img {
+    width: 30% !important;
+    margin-top: 100px !important;
+    min-height: 200px !important;
+    margin-left: 100px !important;
+}
+
+.cardBody {
+    width: 100% !important;
+    border: 1px solid rgb(26, 26, 26) !important;
+    border-radius: 10px !important;
+    margin-top: 200px !important;
+    box-shadow: 10px !important;
+    margin-left: 150px !important;
+    background-color: rgb(26, 26, 26) !important;
+    color: white;
+}
+
+.Form {
+    width: 100% !important;
+    background-color: rgb(26, 26, 26) !important;
+    border-radius: 10px !important;
+}
+
+.Col1 {
+    min-height: 200px !important;
+    width: 750px !important;
+    margin-top: 50px !important;
+    background-color: black !important;
+}
+
+.Col2 {
+    min-height: 200px !important;
+    width: 30% !important;
+}
+
+.h1 {
+    margin: 10px !important;
+    color: white !important;
+    font-size: 50px !important;
+    width: 700px !important;
+    margin-left: 100px !important;
+}
+
+.h5 {
+    margin: 10px !important;
+    color: rgb(94, 88, 88) !important;
+    font-size: 15px !important;
+    width: 400px !important;
+    margin-left: 100px !important;
+}
+
+.h6 {
+    margin: 25px !important;
+    color: rgb(255, 255, 255) !important;
+    font-size: 30px !important;
+    font-weight: bold !important;
+    width: 400px !important;
+}
+
+.input {
+    margin: 25px !important;
+    font-size: 20px !important;
+    font-weight: bold !important;
+}
+
+.input1 {
+    background-color: rgb(170, 170, 170) !important;
+}
+
+.btn {
+    margin: 25px !important;
+    font-size: 15px !important;
+    font-weight: bold !important;
+    width: 265px !important;
+}
+
+.button {
+    margin-left: 100px !important;
+    margin-top: 50px !important;
+    width: 120px !important;
+    font-weight: bold !important;
+}
+
+.button1 {
+    margin-left: 10px !important;
+    text-decoration: none !important;
+    color: white !important;
+    margin-top: 50px !important;
+    width: 120px !important;
+    font-weight: bold !important;
+    
+}
